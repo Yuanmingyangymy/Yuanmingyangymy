@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!)](https://git.io/typing-svg)
+
 - 🔭 I’m currently studying on XUPT 
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with bilibili
@@ -13,7 +15,7 @@
 
 [![Yuanmingyangymy](https://github-profile-trophy.vercel.app/?username=Yuanmingyangymy)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <!--
 **Yuanmingyangymy/Yuanmingyangymy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
