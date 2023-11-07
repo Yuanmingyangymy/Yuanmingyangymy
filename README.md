@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently studying on XUPT 
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with bilibili
+- 💬 Ask me about web
+- 😄 Pronouns: ymy
 
 <!--
 **Yuanmingyangymy/Yuanmingyangymy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
